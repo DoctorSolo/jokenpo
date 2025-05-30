@@ -1,6 +1,6 @@
 from src.Jokenpo import Jokenpo
 import src.Jokenpo as Jokenpo
-from Opt import Opt
+from src.Opt import Opt
 
 def Joga(a: Jokenpo, b: Jokenpo):
     
